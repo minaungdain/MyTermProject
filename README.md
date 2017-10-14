@@ -7,6 +7,5 @@ Online Meeting Room Reservation
   *Min Aung Dain*
 ##### Next feature will be release
  1.users able to chat with each other
-###### Demo Screenshots
-(file:///C:/Users/Mehm/Desktop/admin.jpg)
+
  
