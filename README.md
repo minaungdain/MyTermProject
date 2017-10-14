@@ -8,6 +8,5 @@ Online Meeting Room Reservation
 ##### Next feature will be release
  1.users able to chat with each other
 ###### Demo Screenshots
-Inline-style: 
-![alt text](file:///C:/Users/Mehm/Desktop/admin.jpg)
+![GitHub Logo](file:///C:/Users/Mehm/Desktop/admin.jpg)
  
